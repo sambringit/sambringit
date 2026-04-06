@@ -6,6 +6,16 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+![Python](https://shields.io)
+![React](https://shields.io)
+![OCAML](https://shields.io)
+![Rust](https://shields.io)
+![c++](https://shields.io)
+![java](https://shields.io)
+![TensorFlow](https://shields.io)
+![Pytorch](https://shields.io)
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
